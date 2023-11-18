@@ -1,0 +1,22 @@
+/* Here we are adding css in our page */
+.container1{
+    width: 50%;
+    height: 50%;
+    border: 2px solid red;
+    margin-bottom: 5px;
+    color: green;
+}
+.container2{
+    width: 50%;
+    height: 50%;
+    border: 2px solid red;
+    margin-bottom: 5px;
+
+}
+.container3{
+    width: 50%;
+    height: 50%;
+    border: 2px solid red;
+    margin-bottom: 5px;
+
+}
